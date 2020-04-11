@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "903384282351",
+    "firebase_url": "https://mjcrew-84205.firebaseio.com",
+    "project_id": "mjcrew-84205",
+    "storage_bucket": "mjcrew-84205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903384282351:android:5df94a962e5ba693d6d71a",
+        "android_client_info": {
+          "package_name": "com.example.wcmc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903384282351-8uuskmjsfrpjgk176u82q6k21id0v0ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWhEekBuUy0JaQ9tUsKjzU-4KvqF2j0SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903384282351-8uuskmjsfrpjgk176u82q6k21id0v0ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
